@@ -9,7 +9,7 @@ public class Class01 {
         int z=4;
         System.out.println(x+y+z);
         //V3
-        System.out.println("V3 kodaları..");
+        System.out.println("V3 kodları..");
 
 
 
