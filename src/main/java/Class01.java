@@ -10,6 +10,10 @@ public class Class01 {
         System.out.println(x+y+z);
         //V3
         System.out.println("V3 kodları..");
+        //V4 çalışmaları
+        System.out.println("V4 çalışmaları");
+
+
 
 
 
