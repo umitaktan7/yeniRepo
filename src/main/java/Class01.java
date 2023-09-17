@@ -20,6 +20,10 @@ public class Class01 {
         int w=4;
         System.out.println(x+y+w);
 
+        //Version 2 çalışmaları
+        int k=4;
+        System.out.println(x+y+k);
+
 
 
     }
