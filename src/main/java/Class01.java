@@ -15,7 +15,7 @@ public class Class01 {
         //V5 Kodlarım
         //V6 için yeni çalışmaşar..
         //V7 çalışmalar..
-        //githup üzrinde de çalışma yapılabilir. Ancak yaptığımız çalışma ana makinede kaydedileceğinden Githup üzerinde yaptığımız
+        //GitHup üzerinde de çalışma yapılabilir. Ancak yaptığımız çalışma ana makinede kaydedileceğinden Githup üzerinde yaptığımız
         //değişikliği lokalimize yani kendi bilgisayarımıza çekmeliyiz
 
 
