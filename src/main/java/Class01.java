@@ -20,6 +20,8 @@ public class Class01 {
 
         //kısa yol commit intelj menüden Git sekmesi, onun altında önce commit sonra push..
 
+        //kısa yol pull için değişklik yaptım. intelj e gidip kısa yol pull işlemi yapacağım..
+
 
 
 
