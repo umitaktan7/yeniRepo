@@ -16,16 +16,10 @@ public class Class01 {
         //V6 için yeni çalışmaşar..
         //V7 çalışmalar..
 
-        //Version 2 çalışmaları
-        int w=4;
-        System.out.println(x+y+w);
 
-        //Version 2 çalışmaları
-        int k=4;
-        System.out.println(x+y+k);
+
 
 
 
     }
-
 }
