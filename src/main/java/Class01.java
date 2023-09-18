@@ -18,6 +18,8 @@ public class Class01 {
         //GitHup üzerinde de çalışma yapılabilir. Ancak yaptığımız çalışma ana makinede kaydedileceğinden Githup üzerinde yaptığımız
         //değişikliği lokalimize yani kendi bilgisayarımıza çekmeliyiz
 
+        //kısa yol commit intelj menüden Git sekmesi, onun altında önce commit sonra push..
+
 
 
 
